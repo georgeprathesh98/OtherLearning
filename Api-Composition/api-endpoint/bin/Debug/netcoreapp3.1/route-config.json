@@ -1,0 +1,42 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Product/GetAllProducts",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8012
+        }
+      ],
+      "UpstreamPathTemplate": "/AllProducts",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "Products"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Orders",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8011
+        }
+      ],
+      "UpstreamPathTemplate": "/AllOrders",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "Orders"
+    }
+  ],
+  "Aggregates": [
+    {
+      "RouteKeys": [
+        "Orders",
+        "Products"
+      ],
+      "UpstreamPathTemplate": "/ProductsAndOrders"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:60536/"
+  }
+}

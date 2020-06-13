@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+gECvI6z7JbNg3Or7bzRXcycp9nce73IGeCt8a8XjvsEfemMnsLXmJ1ialYSQ8jws2K550vsYAXV5B2dqfde4A==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\NewLearning\\AzureTest\\WebApplication1\\WebApplication1\\Azure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gprathesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\gprathesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

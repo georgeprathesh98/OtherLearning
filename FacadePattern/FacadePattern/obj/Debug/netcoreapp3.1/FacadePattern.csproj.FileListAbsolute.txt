@@ -1,0 +1,13 @@
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.exe
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.deps.json
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.runtimeconfig.json
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.runtimeconfig.dev.json
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.dll
+D:\GIT\NewLearning\FacadePattern\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.pdb
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.csprojAssemblyReference.cache
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.csproj.CoreCompileInputs.cache
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.AssemblyInfoInputs.cache
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.AssemblyInfo.cs
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.dll
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.pdb
+D:\GIT\NewLearning\FacadePattern\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.genruntimeconfig.cache

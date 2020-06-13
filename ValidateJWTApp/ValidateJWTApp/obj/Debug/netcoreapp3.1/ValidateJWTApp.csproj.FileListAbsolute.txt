@@ -1,0 +1,13 @@
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.exe
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.deps.json
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.runtimeconfig.json
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.runtimeconfig.dev.json
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.dll
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\bin\Debug\netcoreapp3.1\ValidateJWTApp.pdb
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.AssemblyInfoInputs.cache
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.AssemblyInfo.cs
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.csproj.CoreCompileInputs.cache
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.dll
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.pdb
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.genruntimeconfig.cache
+C:\Users\gprathesh\source\repos\ValidateJWTApp\ValidateJWTApp\obj\Debug\netcoreapp3.1\ValidateJWTApp.csprojAssemblyReference.cache
